@@ -1,4 +1,3 @@
-# Projeto Pessoa e Aluno
 
 ## 📋 Pré-requisitos
 
